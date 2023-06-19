@@ -1,4 +1,4 @@
-# service.autohideosd KODI service
+# AutoHideOSD KODI service
 A service to automatically hide OSD in KODI
 
 # How it works
