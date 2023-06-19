@@ -2,7 +2,7 @@
 A service to automatically hide OSD in KODI
 
 # How it works
-Once installed, whenever you bring up the Kodi OSD, the service will gracefully close it after 5 seconds. Very convenient, no more fumbling with the back button
+Once installed, whenever you bring up the Kodi OSD, the service will gracefully close it if idle for 5 seconds. Very convenient, no more fumbling with the back button
 
 
 # License
