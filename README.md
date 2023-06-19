@@ -1,2 +1,9 @@
-# service.autohideosd
+# service.autohideosd KODI service
 A service to automatically hide OSD in KODI
+
+# How it works
+Once installed, whenever you bring up the Kodi OSD, the service will gracefully close it after 5 seconds. Very convenient, no more fumbling with the back button
+
+
+# License
+AutoHideOSD is [GPLv2 licensed](https://github.com/osumoclement/service.autohideosd/blob/main/LICENSE.txt). You may use, distribute and copy it under the license terms.
