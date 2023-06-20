@@ -6,4 +6,4 @@ Once installed, whenever you bring up the Kodi OSD, the service will gracefully 
 
 
 # License
-AutoHideOSD is [GPLv2 licensed](https://github.com/osumoclement/service.autohideosd/blob/main/LICENSE). You may use, distribute and copy it under the license terms.
+AutoHideOSD is [GPLv3 licensed](https://github.com/osumoclement/service.autohideosd/blob/main/LICENSE). You may use, distribute and copy it under the license terms.
